@@ -1,6 +1,6 @@
 # Hi, I'm Ayush Sharma 👋
 
-### CSE Student | AI/ML Developer | Backend Developer
+### CSE Student | AI/ML Developer 
 
 I'm a Computer Science student at Bennett University interested in
 Artificial Intelligence, Machine Learning, Computer Vision, NLP,
